@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to our Aathira's slide!"
 ---
 
 This is Aathira-Shell Slide
